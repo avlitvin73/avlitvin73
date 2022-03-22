@@ -12,7 +12,7 @@
 </div>
 
 
-### :man_technologist: &nbsp;About Me :
+### About Me :
 
 I am a Front-end Developer from Moscow.
 
@@ -22,17 +22,51 @@ I am a Front-end Developer from Moscow.
 
 ---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
-
+### Contacts :
+* ✈️ Telegram: @avlitvin
+* 📞 Phone: +79779547165
+* 📧 E-mail: alexlik73@gmail.com
 
 ---
 
-### 🔥 &nbsp; My Stats :
+### Skills :
+<div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+
+---
+  
+### Experience:
+- A simple commercial order to the site with a registration form
+https://dream-boat-msk.ru/ 
+- A few of the training projects on JavaScript
+https://github.com/Pylearn2017/Js/tree/master/JS
+
+### Education:
+Higher engineering education 
+Moscow Aviation Institute
+
+### Languages:
+* Russian - native speaker.
+* English - A2 (B1 in process…)
+  
+### Code :
+
+```
+let stopClick = function(event) {
+	score++;
+	textScore.text(`Score is: $(score)`);
+	if (score >= 10) {
+		clearInterval(squareID);
+		textToWinner = alert('You are winner!');
+	}
+}
+```
+
+### Stats :
 
 
         
