@@ -40,36 +40,34 @@ I am a Front-end Developer from Moscow.
 ---
   
 ### Experience:
-- Personal CV
-https://cv-ref.pylearn-2017.repl.co/
-- A simple commercial order to the site with a registration form
-https://chintaskfinalfix.pylearn-2017.repl.co/
-- Landing page for travel portal
-https://rolling-scopes-school.github.io/avlitvin73-JSFEPRESCHOOL2022Q2/travel/
-- Photographer Portfolio
-https://photo-portfolio.pylearn-2017.repl.co/
-- Simple website for dog shelter
-https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/shelter/
-- Meme slider on pure css
-https://avlitvin73.github.io/cssMemSlider/cssMemSlider/
-- New Year's greetings #1
-https://honeydewcybercommands.pylearn-2017.repl.co/	
-- New Year's greetings version #2
-https://standardshrillnumber.pylearn-2017.repl.co/
-- Analog clock
-https://analogclock.pylearn-2017.repl.co/
-- Tip calculator
-https://tipcalculatorjs.pylearn-2017.repl.co/
-- Rock Paper Scissor game
-https://rockpaperscissorjs.pylearn-2017.repl.co/
-- Pig game
-https://complicatedstandardbracket-2.pylearn-2017.repl.co/
-- Todo app
-https://avlitvin73.github.io/clean-code-s1e1/
-- Virtual keyboard
-https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/virtual-keyboard/
-- A few of the training projects on JavaScript
-https://github.com/Pylearn2017/Js/tree/master/JS
+- [Personal CV](
+https://cv-ref.pylearn-2017.repl.co/)
+- [A simple commercial order to the site with a registration form]
+(https://chintaskfinalfix.pylearn-2017.repl.co/)
+- [Landing page for travel portal]
+(https://rolling-scopes-school.github.io/avlitvin73-JSFEPRESCHOOL2022Q2/travel/)
+- [Photographer Portfolio]
+(https://photo-portfolio.pylearn-2017.repl.co/)
+- [Simple website for dog shelter]
+(https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/shelter/)
+- [Meme slider on pure css]
+(https://avlitvin73.github.io/cssMemSlider/cssMemSlider/)
+- [New Year's greetings #1]
+(https://honeydewcybercommands.pylearn-2017.repl.co/)
+- [New Year's greetings version #2]
+(https://standardshrillnumber.pylearn-2017.repl.co/)
+- [Analog clock]
+(https://analogclock.pylearn-2017.repl.co/)
+- [Tip calculator]
+(https://tipcalculatorjs.pylearn-2017.repl.co/)
+- [Rock Paper Scissor game]
+(https://rockpaperscissorjs.pylearn-2017.repl.co/)
+- [Pig game]
+(https://complicatedstandardbracket-2.pylearn-2017.repl.co/)
+- [Todo app]
+(https://avlitvin73.github.io/clean-code-s1e1/)
+- [Virtual keyboard]
+(https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/virtual-keyboard/)
 
 
 
