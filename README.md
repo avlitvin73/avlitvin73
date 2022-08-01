@@ -50,6 +50,10 @@ https://photo-portfolio.pylearn-2017.repl.co/
 https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/shelter/
 - Meme slider on pure css
 https://avlitvin73.github.io/cssMemSlider/cssMemSlider/
+Tip calculator
+- https://tipcalculatorjs.pylearn-2017.repl.co/
+- Rock Paper Scissor game
+https://rockpaperscissorjs.pylearn-2017.repl.co/
 - Todo app
 https://avlitvin73.github.io/clean-code-s1e1/
 - Virtual keyboard
