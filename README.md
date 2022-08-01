@@ -52,8 +52,14 @@ https://photo-portfolio.pylearn-2017.repl.co/
 https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/shelter/
 - Meme slider on pure css
 https://avlitvin73.github.io/cssMemSlider/cssMemSlider/
-Tip calculator
-- https://tipcalculatorjs.pylearn-2017.repl.co/
+- New Year's greetings #1
+https://honeydewcybercommands.pylearn-2017.repl.co/	
+- New Year's greetings version #2
+https://standardshrillnumber.pylearn-2017.repl.co/
+- Analog clock
+https://analogclock.pylearn-2017.repl.co/
+- Tip calculator
+https://tipcalculatorjs.pylearn-2017.repl.co/
 - Rock Paper Scissor game
 https://rockpaperscissorjs.pylearn-2017.repl.co/
 - Pig game
