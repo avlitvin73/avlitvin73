@@ -40,18 +40,24 @@ I am a Front-end Developer from Moscow.
 ---
   
 ### Experience:
+- Personal CV
+https://cv-ref.pylearn-2017.repl.co/
 - A simple commercial order to the site with a registration form
-https://dream-boat-msk.ru/ 
-- A few of the training projects on JavaScript
-https://github.com/Pylearn2017/Js/tree/master/JS
+https://chintaskfinalfix.pylearn-2017.repl.co/
+- Photographer Portfolio
+https://photo-portfolio.pylearn-2017.repl.co/
 - Simple website for dog shelter
 https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/shelter/
-- Virtual keyboard
-https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/virtual-keyboard/
 - Meme slider on pure css
 https://avlitvin73.github.io/cssMemSlider/cssMemSlider/
 - Todo app
 https://avlitvin73.github.io/clean-code-s1e1/
+- Virtual keyboard
+https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/virtual-keyboard/
+- A few of the training projects on JavaScript
+https://github.com/Pylearn2017/Js/tree/master/JS
+
+
 
 ### Education:
 Higher engineering education 
