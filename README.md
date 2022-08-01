@@ -44,6 +44,14 @@ I am a Front-end Developer from Moscow.
 https://dream-boat-msk.ru/ 
 - A few of the training projects on JavaScript
 https://github.com/Pylearn2017/Js/tree/master/JS
+- Simple website for dog shelter
+https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/shelter/
+- Virtual keyboard
+https://rolling-scopes-school.github.io/avlitvin73-JSFE2022Q1/virtual-keyboard/
+- Meme slider on pure css
+https://avlitvin73.github.io/cssMemSlider/cssMemSlider/
+- Todo app
+https://avlitvin73.github.io/clean-code-s1e1/
 
 ### Education:
 Higher engineering education 
