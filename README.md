@@ -69,13 +69,18 @@ Moscow Aviation Institute
 ### Code :
 
 ```
-let stopClick = function(event) {
-	score++;
-	textScore.text(`Score is: $(score)`);
-	if (score >= 10) {
-		clearInterval(squareID);
-		textToWinner = alert('You are winner!');
-	}
+const reverseNum = function(num) {
+  num = Math.abs(num)
+  let lastNum
+  let output = 0
+  let step = 1
+  while (num > 0) {
+    lastNum = num % 10
+    output = output * step + lastNum 
+    num = Math.floor(num / 10)
+    step = 10
+  }
+  return output
 }
 ```
 
