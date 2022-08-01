@@ -44,6 +44,8 @@ I am a Front-end Developer from Moscow.
 https://cv-ref.pylearn-2017.repl.co/
 - A simple commercial order to the site with a registration form
 https://chintaskfinalfix.pylearn-2017.repl.co/
+- Landing page for travel portal
+https://rolling-scopes-school.github.io/avlitvin73-JSFEPRESCHOOL2022Q2/travel/
 - Photographer Portfolio
 https://photo-portfolio.pylearn-2017.repl.co/
 - Simple website for dog shelter
