@@ -18,7 +18,7 @@ I am a Front-end Developer from Moscow.
 
 - 📚 Using my skills as a guide for very young web development.
 - ⌚ Have 3 years of experience in creating websites.
-- ⚡ I love the power that JavaScrip
+- ⚡ I like the power of JavaScript.
 
 ---
 
