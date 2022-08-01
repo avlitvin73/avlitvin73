@@ -56,6 +56,8 @@ Tip calculator
 - https://tipcalculatorjs.pylearn-2017.repl.co/
 - Rock Paper Scissor game
 https://rockpaperscissorjs.pylearn-2017.repl.co/
+- Pig game
+https://complicatedstandardbracket-2.pylearn-2017.repl.co/
 - Todo app
 https://avlitvin73.github.io/clean-code-s1e1/
 - Virtual keyboard
