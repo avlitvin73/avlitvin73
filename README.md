@@ -30,12 +30,7 @@ I am a Front-end Developer from Moscow.
 ---
 
 ### Skills :
-<div>
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="vuejs" alt="vuejs" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,sqlite,postgres,prisma,git,github,gitlab,py,flask,django,go,docker,svg,regex,figma,vscode,replit,webpack,vite,raspberrypi&perline=7)](https://skillicons.dev)
 
 ---
   
