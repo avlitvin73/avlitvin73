@@ -35,8 +35,7 @@ I am a Front-end Developer from Moscow.
 ---
   
 ### Experience:
-- [Personal CV](
-https://cv-ref.pylearn-2017.repl.co/)
+- [Personal CV](https://avlitvin73.github.io/cv/)
 - [Registration forms for festival](https://chintaskfinalfix.pylearn-2017.repl.co/)
 - [Landing page for travel portal](https://rolling-scopes-school.github.io/avlitvin73-JSFEPRESCHOOL2022Q2/travel/)
 - [Photographer Portfolio](https://photo-portfolio.pylearn-2017.repl.co/)
